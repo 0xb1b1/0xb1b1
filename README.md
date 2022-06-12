@@ -6,5 +6,5 @@
 🧙 Arch Linux and NixOS user\
 🧑‍💻 C++, Python, Lua, and Rust developer\
 🕵️ OSINT researcher\
-🧑‍✈️ System administratorr\
+🧑‍✈️ System administrator
 
