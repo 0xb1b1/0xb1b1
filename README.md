@@ -1,6 +1,6 @@
 👋 Hi! I'm 0xb1b1. Welcome to my profile!
 
-> Who are you?\
+`> Who are you?`\
 🏴 Anarcho-mutualist\
 🥷 FOSS enthusiast\
 🧙 Arch Linux and NixOS user\
